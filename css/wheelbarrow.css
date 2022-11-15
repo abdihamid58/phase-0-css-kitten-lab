@@ -33,8 +33,17 @@ img {
   background: url(../images/wheelbarrow-foreground.png) no-repeat;
   z-index: 10;
   top: 220px;
+
 }
+
 
 #basket, #ball {
   display: inline;
+}
+/* Select the image with a class of kitty-1 */
+write-your-selector-here {
+  position: absolute;
+  z-index: 1;
+  top: 276px;
+  left: 129px;
 }
